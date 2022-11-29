@@ -1,0 +1,12 @@
+{
+    "name": "maksym/weblab-app",
+    "require": {
+        "phpunit/phpunit": "^9.5",
+        "overtrue/phplint": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Maksym\\WeblabApp\\": "src/"
+        }
+    }
+}
